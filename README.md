@@ -18,3 +18,4 @@ A beautiful, responsive weather app built using **HTML, CSS, and JavaScript**.
 3. Type a location & enjoy the weather magic! ✨
 
 👩‍💻 Made with 💛 by **Pooja Suresh Roogi**
+check demo  - [OpenWeatherMap](http://127.0.0.1:5501/index.html) 🌦️
